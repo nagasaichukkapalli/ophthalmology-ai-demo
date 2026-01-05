@@ -63,6 +63,4 @@ The system calculates confidence as:
 
 If `Confidence < 60%`, the system automatically flags a "Low Confidence" warning.
 
-## License
 
-MIT License - For academic use only.
