@@ -1,0 +1,24 @@
+Disease: Conjunctivitis
+Symptoms: Redness, itching, gritty sensation, discharge, tearing
+Description: Inflammation of the conjunctiva, often caused by infection or allergy. Also known as pink eye.
+Specialist: General Ophthalmologist or Optometrist
+
+Disease: Glaucoma
+Symptoms: Gradual loss of peripheral vision, tunnel vision, eye pain, blurred vision, halos around lights
+Description: A group of eye conditions that damage the optic nerve, often caused by abnormally high pressure in your eye.
+Specialist: Glaucoma Specialist
+
+Disease: Cataract
+Symptoms: Clouded, blurred or dim vision, increasing difficulty with vision at night, sensitivity to light and glare, fading or yellowing of colors
+Description: A clouding of the clear lens of the eye.
+Specialist: Cataract Surgeon
+
+Disease: Diabetic Retinopathy
+Symptoms: Spots or dark strings floating in vision (floaters), blurred vision, fluctuating vision, dark or empty areas in vision, vision loss
+Description: A diabetes complication that affects eyes. It's caused by damage to the blood vessels of the light-sensitive tissue at the back of the eye (retina).
+Specialist: Retina Specialist
+
+Disease: Uveitis
+Symptoms: Eye redness, eye pain, light sensitivity, blurred vision, dark, floating spots in field of vision (floaters), decreased vision
+Description: A form of eye inflammation. It affects the middle layer of tissue in the eye wall (uvea).
+Specialist: Uveitis Specialist or Retina Specialist
